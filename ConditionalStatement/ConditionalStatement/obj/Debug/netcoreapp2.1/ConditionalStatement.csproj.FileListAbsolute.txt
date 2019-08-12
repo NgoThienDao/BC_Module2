@@ -1,0 +1,11 @@
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\bin\Debug\netcoreapp2.1\ConditionalStatement.deps.json
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\bin\Debug\netcoreapp2.1\ConditionalStatement.runtimeconfig.json
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\bin\Debug\netcoreapp2.1\ConditionalStatement.runtimeconfig.dev.json
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\bin\Debug\netcoreapp2.1\ConditionalStatement.dll
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\bin\Debug\netcoreapp2.1\ConditionalStatement.pdb
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\obj\Debug\netcoreapp2.1\ConditionalStatement.csprojAssemblyReference.cache
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\obj\Debug\netcoreapp2.1\ConditionalStatement.csproj.CoreCompileInputs.cache
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\obj\Debug\netcoreapp2.1\ConditionalStatement.AssemblyInfoInputs.cache
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\obj\Debug\netcoreapp2.1\ConditionalStatement.AssemblyInfo.cs
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\obj\Debug\netcoreapp2.1\ConditionalStatement.dll
+G:\LapTrinh\Module2_C#\1.C#\ConditionalStatement\ConditionalStatement\obj\Debug\netcoreapp2.1\ConditionalStatement.pdb
