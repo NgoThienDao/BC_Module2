@@ -17,7 +17,7 @@ namespace KiemTra.Bai3
             int option = 0;
             do
             {
-                Console.WriteLine("Books Management System");
+                Console.WriteLine("Post Management System");
                 Console.WriteLine("1. Create Post");
                 Console.WriteLine("2. Calculator");
                 Console.WriteLine("3. Show list");
